@@ -18,7 +18,7 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: green;
   text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #149ddd;
+  background:green;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -125,7 +125,7 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: green;
   color: #fff;
   text-decoration: none;
 }
@@ -206,7 +206,7 @@ h6 {
 .nav-menu .active i,
 .nav-menu .active:focus i,
 .nav-menu li:hover>a i {
-  color: #149ddd;
+  color: green;
 }
 
 /* Mobile Navigation */
@@ -219,7 +219,7 @@ h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: green;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -287,7 +287,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid green;
 }
 
 @media (min-width: 1024px) {
@@ -331,7 +331,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: green;
 }
 
 .section-title h2::after {
@@ -340,7 +340,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: green;
   bottom: 0;
   left: 0;
 }
@@ -355,7 +355,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: green;
 }
 
 .about .content ul {
@@ -376,7 +376,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #149ddd;
+  color: green;
   line-height: 0;
 }
 
@@ -399,7 +399,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: green;
   float: left;
   line-height: 0;
 }
@@ -461,7 +461,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #dce8f8;
+  background: white;
   height: 10px;
 }
 
@@ -469,7 +469,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: green;
 }
 
 /*--------------------------------------------------------------
@@ -568,7 +568,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+  color: green;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -661,11 +661,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #149ddd;
+  border: 1px solid green;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #149ddd;
+  background-color: green;
 }
 
 .portfolio-details .portfolio-info {
@@ -722,23 +722,24 @@ section {
   background: #ffffff;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #000000;
+  border: 1px solid green;
 }
 
 
 .services .icon i {
-  color: #000000;
+  color: green;
   font-size: 24px;
   line-height: 0;
 }
 
 
 .services .icon-box:hover .icon {
-  background: #000000;
+  
+  background: green;
 }
 
 .services .icon-box:hover .icon i {
-  color: #ffffff;
+  color: white;
   
 }
 
@@ -747,14 +748,15 @@ section {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
+  color: green;
 }
 
 .services .title a {
-  color: #41648b;
+  color: green;
 }
 
 .services .title a:hover {
-  color: #149ddd;
+  color: green;
 }
 
 .services .description {
@@ -848,11 +850,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #149ddd;
+  border: 1px solid green;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #149ddd;
+  background-color: green;
 }
 
 /*--------------------------------------------------------------
@@ -871,7 +873,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: green;
   float: left;
   width: 44px;
   height: 44px;
@@ -888,14 +890,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #050d18;
+  color: green;
 }
 
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color:black;
 }
 
 .contact .info .email p {
@@ -922,14 +924,14 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: green;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #149ddd;
+  background: green;
   color: #fff;
 }
 
@@ -1017,7 +1019,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #149ddd;
+  background: green;
   border: 0;
   padding: 13px 29px;
   color: #fff;
