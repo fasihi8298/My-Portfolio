@@ -618,7 +618,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(33, 34, 34, 0.95);
+  background: green;
   color: white;
 }
 
@@ -670,7 +670,7 @@ section {
 
 .portfolio-details .portfolio-info {
   padding: 30px;
-  box-shadow: 0px 0 30px rgba(5, 13, 24, 0.08);
+  box-shadow: 0px 0 30px green;
 }
 
 .portfolio-details .portfolio-info h3 {
@@ -800,7 +800,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #c3e8fa;
+  color: green;
   font-size: 26px;
 }
 
