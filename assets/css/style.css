@@ -1049,7 +1049,9 @@ section {
 .breadcrumbs {
   padding: 20px 0;
   background: #f9f9f9;
+  color: green;
 }
+
 
 .breadcrumbs h2 {
   font-size: 26px;
